@@ -9,7 +9,7 @@ using System;
 
 namespace ProfileViewNVKAlignment
 {
-    public class Class
+    public class PVNVKALIGMENT
     {
         [CommandMethod("PVNVKALIG")]
         static public void PipesAlignment()
